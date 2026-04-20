@@ -3,6 +3,8 @@ from flask_cors import CORS
 from scraper import scrape_nse_stocks
 import json
 import os
+import logging
+logging.basicConfig(level=logging.DEBUG)
 from datetime import datetime
 
 app = Flask(__name__)
