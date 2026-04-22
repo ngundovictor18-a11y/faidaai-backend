@@ -1,0 +1,554 @@
+[
+  {
+    "symbol": "ABSA",
+    "name": "Absa Bank Kenya Plc",
+    "volume": "161,129",
+    "price": "31.45",
+    "change": "-0.10",
+    "timestamp": "2026-04-20T00:28:30.650240"
+  },
+  {
+    "symbol": "ALP",
+    "name": "ALP Real Estate Investment Trust",
+    "volume": "",
+    "price": "1.00",
+    "change": "",
+    "timestamp": "2026-04-20T00:28:30.650294"
+  },
+  {
+    "symbol": "AMAC",
+    "name": "Africa Mega Agricorp",
+    "volume": "49",
+    "price": "118.50",
+    "change": "+4.25",
+    "timestamp": "2026-04-20T00:28:30.650334"
+  },
+  {
+    "symbol": "ARM",
+    "name": "ARM Cement Ltd",
+    "volume": "",
+    "price": "5.50",
+    "change": "",
+    "timestamp": "2026-04-20T00:28:30.650374"
+  },
+  {
+    "symbol": "BAMB",
+    "name": "Bamburi Cement Ltd",
+    "volume": "",
+    "price": "54.00",
+    "change": "",
+    "timestamp": "2026-04-20T00:28:30.650410"
+  },
+  {
+    "symbol": "BAT",
+    "name": "British American Tobacco Kenya",
+    "volume": "12,635",
+    "price": "569.00",
+    "change": "+0.00",
+    "timestamp": "2026-04-20T00:28:30.650447"
+  },
+  {
+    "symbol": "BKG",
+    "name": "BK Group Plc",
+    "volume": "27,714",
+    "price": "53.50",
+    "change": "+2.00",
+    "timestamp": "2026-04-20T00:28:30.650506"
+  },
+  {
+    "symbol": "BOC",
+    "name": "BOC Kenya Ltd",
+    "volume": "16,325",
+    "price": "133.75",
+    "change": "+0.00",
+    "timestamp": "2026-04-20T00:28:30.650561"
+  },
+  {
+    "symbol": "BRIT",
+    "name": "Britam Holdings Ltd",
+    "volume": "25,215",
+    "price": "12.25",
+    "change": "-0.25",
+    "timestamp": "2026-04-20T00:28:30.650598"
+  },
+  {
+    "symbol": "CABL",
+    "name": "East African Cables",
+    "volume": "",
+    "price": "1.71",
+    "change": "",
+    "timestamp": "2026-04-20T00:28:30.650634"
+  },
+  {
+    "symbol": "CARB",
+    "name": "Carbacid Investments",
+    "volume": "21,903",
+    "price": "29.50",
+    "change": "+0.30",
+    "timestamp": "2026-04-20T00:28:30.650671"
+  },
+  {
+    "symbol": "CGEN",
+    "name": "Car and General Kenya Ltd",
+    "volume": "976",
+    "price": "65.75",
+    "change": "+4.25",
+    "timestamp": "2026-04-20T00:28:30.650709"
+  },
+  {
+    "symbol": "CIC",
+    "name": "CIC Insurance Group Ltd",
+    "volume": "84,235",
+    "price": "4.66",
+    "change": "+0.03",
+    "timestamp": "2026-04-20T00:28:30.650746"
+  },
+  {
+    "symbol": "COOP",
+    "name": "Co-operative Bank of Kenya",
+    "volume": "679,032",
+    "price": "32.50",
+    "change": "+0.10",
+    "timestamp": "2026-04-20T00:28:30.650782"
+  },
+  {
+    "symbol": "CRWN",
+    "name": "Crown Paints Kenya Ltd",
+    "volume": "2,943",
+    "price": "59.00",
+    "change": "+0.00",
+    "timestamp": "2026-04-20T00:28:30.650819"
+  },
+  {
+    "symbol": "CTUM",
+    "name": "Centum Investment Company",
+    "volume": "24,112",
+    "price": "14.05",
+    "change": "+0.15",
+    "timestamp": "2026-04-20T00:28:30.650856"
+  },
+  {
+    "symbol": "DCON",
+    "name": "Deacons East Africa",
+    "volume": "",
+    "price": "0.45",
+    "change": "",
+    "timestamp": "2026-04-20T00:28:30.650889"
+  },
+  {
+    "symbol": "DTK",
+    "name": "Diamond Trust Bank Kenya Ltd",
+    "volume": "47,237",
+    "price": "149.75",
+    "change": "+0.50",
+    "timestamp": "2026-04-20T00:28:30.650926"
+  },
+  {
+    "symbol": "EABL",
+    "name": "East African Breweries Ltd",
+    "volume": "9,179",
+    "price": "248.75",
+    "change": "-2.00",
+    "timestamp": "2026-04-20T00:28:30.650963"
+  },
+  {
+    "symbol": "EGAD",
+    "name": "Eaagads Ltd",
+    "volume": "3,517",
+    "price": "34.15",
+    "change": "+0.00",
+    "timestamp": "2026-04-20T00:28:30.650999"
+  },
+  {
+    "symbol": "EQTY",
+    "name": "Equity Group Holdings Ltd",
+    "volume": "3,472,438",
+    "price": "75.00",
+    "change": "+0.25",
+    "timestamp": "2026-04-20T00:28:30.651036"
+  },
+  {
+    "symbol": "EVRD",
+    "name": "Eveready East Africa Ltd",
+    "volume": "301,604",
+    "price": "1.15",
+    "change": "+0.01",
+    "timestamp": "2026-04-20T00:28:30.651073"
+  },
+  {
+    "symbol": "FTGH",
+    "name": "Flame Tree Group Holdings",
+    "volume": "19,549",
+    "price": "2.38",
+    "change": "+0.00",
+    "timestamp": "2026-04-20T00:28:30.651109"
+  },
+  {
+    "symbol": "GLD",
+    "name": "Absa NewGold ETF",
+    "volume": "142",
+    "price": "5,845.00",
+    "change": "+25.00",
+    "timestamp": "2026-04-20T00:28:30.651146"
+  },
+  {
+    "symbol": "HAFR",
+    "name": "Home Afrika Ltd",
+    "volume": "190,045",
+    "price": "1.42",
+    "change": "-0.03",
+    "timestamp": "2026-04-20T00:28:30.651183"
+  },
+  {
+    "symbol": "HBE",
+    "name": "Homeboyz Entertainment",
+    "volume": "",
+    "price": "4.66",
+    "change": "",
+    "timestamp": "2026-04-20T00:28:30.651221"
+  },
+  {
+    "symbol": "HFCK",
+    "name": "HF Group Ltd",
+    "volume": "504,457",
+    "price": "9.26",
+    "change": "-0.06",
+    "timestamp": "2026-04-20T00:28:30.651259"
+  },
+  {
+    "symbol": "IMH",
+    "name": "I&M Holdings Plc",
+    "volume": "121,313",
+    "price": "48.45",
+    "change": "-2.30",
+    "timestamp": "2026-04-20T00:28:30.651300"
+  },
+  {
+    "symbol": "JUB",
+    "name": "Jubilee Holdings Ltd",
+    "volume": "845",
+    "price": "383.50",
+    "change": "-5.75",
+    "timestamp": "2026-04-20T00:28:30.651339"
+  },
+  {
+    "symbol": "KAPC",
+    "name": "Kapchorua Tea Company Ltd",
+    "volume": "676",
+    "price": "237.00",
+    "change": "+2.00",
+    "timestamp": "2026-04-20T00:28:30.651376"
+  },
+  {
+    "symbol": "KCB",
+    "name": "KCB Group",
+    "volume": "477,142",
+    "price": "69.25",
+    "change": "+0.25",
+    "timestamp": "2026-04-20T00:28:30.651432"
+  },
+  {
+    "symbol": "KEGN",
+    "name": "KenGen Plc",
+    "volume": "1,145,948",
+    "price": "9.30",
+    "change": "-0.02",
+    "timestamp": "2026-04-20T00:28:30.651473"
+  },
+  {
+    "symbol": "KNRE",
+    "name": "Kenya Re-Insurance Corporation",
+    "volume": "1,228,860",
+    "price": "3.38",
+    "change": "+0.02",
+    "timestamp": "2026-04-20T00:28:30.651526"
+  },
+  {
+    "symbol": "KPC",
+    "name": "Kenya Pipeline Company",
+    "volume": "223,073,286",
+    "price": "9.94",
+    "change": "+0.54",
+    "timestamp": "2026-04-20T00:28:30.651563"
+  },
+  {
+    "symbol": "KPLC",
+    "name": "Kenya Power & Lighting Company",
+    "volume": "723,916",
+    "price": "16.90",
+    "change": "-0.05",
+    "timestamp": "2026-04-20T00:28:30.651599"
+  },
+  {
+    "symbol": "KPLC-P4",
+    "name": "Kenya Power 4% Preference Shares",
+    "volume": "",
+    "price": "5.00",
+    "change": "",
+    "timestamp": "2026-04-20T00:28:30.651636"
+  },
+  {
+    "symbol": "KPLC-P7",
+    "name": "Kenya Power 7% Preference Shares",
+    "volume": "",
+    "price": "6.00",
+    "change": "",
+    "timestamp": "2026-04-20T00:28:30.651670"
+  },
+  {
+    "symbol": "KQ",
+    "name": "Kenya Airways Ltd",
+    "volume": "1,638,234",
+    "price": "6.80",
+    "change": "-0.68",
+    "timestamp": "2026-04-20T00:28:30.651706"
+  },
+  {
+    "symbol": "KUKZ",
+    "name": "Kakuzi Ltd",
+    "volume": "1,120",
+    "price": "419.50",
+    "change": "-4.25",
+    "timestamp": "2026-04-20T00:28:30.651743"
+  },
+  {
+    "symbol": "KURV",
+    "name": "Kurwitu Ventures Ltd",
+    "volume": "2",
+    "price": "1,500.00",
+    "change": "+0.00",
+    "timestamp": "2026-04-20T00:28:30.651780"
+  },
+  {
+    "symbol": "LAPR",
+    "name": "Laptrust Imara Income-REIT",
+    "volume": "",
+    "price": "20.00",
+    "change": "",
+    "timestamp": "2026-04-20T00:28:30.651813"
+  },
+  {
+    "symbol": "LBTY",
+    "name": "Liberty Kenya Holdings Ltd",
+    "volume": "21,282",
+    "price": "9.96",
+    "change": "-0.04",
+    "timestamp": "2026-04-20T00:28:30.651849"
+  },
+  {
+    "symbol": "LIMT",
+    "name": "Limuru Tea Company Ltd",
+    "volume": "102",
+    "price": "519.00",
+    "change": "+0.00",
+    "timestamp": "2026-04-20T00:28:30.651886"
+  },
+  {
+    "symbol": "LKL",
+    "name": "Longhorn Publishers Ltd",
+    "volume": "18,114",
+    "price": "2.96",
+    "change": "+0.16",
+    "timestamp": "2026-04-20T00:28:30.651923"
+  },
+  {
+    "symbol": "MSC",
+    "name": "Mumias Sugar Company Ltd",
+    "volume": "",
+    "price": "0.28",
+    "change": "",
+    "timestamp": "2026-04-20T00:28:30.651956"
+  },
+  {
+    "symbol": "NBV",
+    "name": "Nairobi Business Ventures Ltd",
+    "volume": "35,585",
+    "price": "1.44",
+    "change": "+0.00",
+    "timestamp": "2026-04-20T00:28:30.651992"
+  },
+  {
+    "symbol": "NCBA",
+    "name": "NCBA Group Plc",
+    "volume": "109,222",
+    "price": "89.75",
+    "change": "-0.25",
+    "timestamp": "2026-04-20T00:28:30.652029"
+  },
+  {
+    "symbol": "NMG",
+    "name": "Nation Media Group",
+    "volume": "1,332",
+    "price": "15.25",
+    "change": "+0.35",
+    "timestamp": "2026-04-20T00:28:30.652065"
+  },
+  {
+    "symbol": "NSE",
+    "name": "Nairobi Securities Exchange Ltd",
+    "volume": "36,656",
+    "price": "20.25",
+    "change": "-0.15",
+    "timestamp": "2026-04-20T00:28:30.652105"
+  },
+  {
+    "symbol": "OCH",
+    "name": "Olympia Capital Holdings Ltd",
+    "volume": "5,771",
+    "price": "7.88",
+    "change": "+0.16",
+    "timestamp": "2026-04-20T00:28:30.652143"
+  },
+  {
+    "symbol": "PORT",
+    "name": "East African Portland Cement",
+    "volume": "166",
+    "price": "79.75",
+    "change": "+1.75",
+    "timestamp": "2026-04-20T00:28:30.652179"
+  },
+  {
+    "symbol": "SASN",
+    "name": "Sasini Tea and Coffee Ltd",
+    "volume": "15,979",
+    "price": "26.40",
+    "change": "+0.75",
+    "timestamp": "2026-04-20T00:28:30.652215"
+  },
+  {
+    "symbol": "SBIC",
+    "name": "Stanbic Holdings Ltd",
+    "volume": "2,895",
+    "price": "289.25",
+    "change": "-1.50",
+    "timestamp": "2026-04-20T00:28:30.652258"
+  },
+  {
+    "symbol": "SCAN",
+    "name": "ScanGroup Ltd",
+    "volume": "23,460",
+    "price": "2.35",
+    "change": "+0.04",
+    "timestamp": "2026-04-20T00:28:30.652295"
+  },
+  {
+    "symbol": "SCBK",
+    "name": "Standard Chartered Bank Ltd",
+    "volume": "137,777",
+    "price": "360.00",
+    "change": "+6.25",
+    "timestamp": "2026-04-20T00:28:30.652332"
+  },
+  {
+    "symbol": "SCOM",
+    "name": "Safaricom Plc",
+    "volume": "1,807,405",
+    "price": "29.60",
+    "change": "+0.25",
+    "timestamp": "2026-04-20T00:28:30.652368"
+  },
+  {
+    "symbol": "SGL",
+    "name": "Standard Group Ltd",
+    "volume": "6,361",
+    "price": "6.02",
+    "change": "-0.24",
+    "timestamp": "2026-04-20T00:28:30.652405"
+  },
+  {
+    "symbol": "SKL",
+    "name": "Shri Krishana Overseas Ltd",
+    "volume": "11,254",
+    "price": "9.20",
+    "change": "+0.20",
+    "timestamp": "2026-04-20T00:28:30.652462"
+  },
+  {
+    "symbol": "SLAM",
+    "name": "Sanlam Kenya Plc",
+    "volume": "15,040",
+    "price": "9.68",
+    "change": "+0.52",
+    "timestamp": "2026-04-20T00:28:30.652510"
+  },
+  {
+    "symbol": "SMER",
+    "name": "Sameer Africa Plc",
+    "volume": "144,289",
+    "price": "19.05",
+    "change": "+2.80",
+    "timestamp": "2026-04-20T00:28:30.652583"
+  },
+  {
+    "symbol": "SMWF",
+    "name": "Satrix MSCI World Feeder ETF",
+    "volume": "28",
+    "price": "860.00",
+    "change": "+0.00",
+    "timestamp": "2026-04-20T00:28:30.652625"
+  },
+  {
+    "symbol": "TCL",
+    "name": "TransCentury Plc",
+    "volume": "",
+    "price": "1.12",
+    "change": "",
+    "timestamp": "2026-04-20T00:28:30.652665"
+  },
+  {
+    "symbol": "TOTL",
+    "name": "Total Kenya Ltd",
+    "volume": "4,549",
+    "price": "43.95",
+    "change": "+0.00",
+    "timestamp": "2026-04-20T00:28:30.652710"
+  },
+  {
+    "symbol": "TPSE",
+    "name": "TPS Eastern Africa Serena Ltd",
+    "volume": "1,085",
+    "price": "16.70",
+    "change": "+0.30",
+    "timestamp": "2026-04-20T00:28:30.652785"
+  },
+  {
+    "symbol": "UCHM",
+    "name": "Uchumi Supermarket Ltd",
+    "volume": "1,186,787",
+    "price": "1.92",
+    "change": "+0.01",
+    "timestamp": "2026-04-20T00:28:30.652840"
+  },
+  {
+    "symbol": "UMME",
+    "name": "Umeme Ltd",
+    "volume": "43,323",
+    "price": "8.00",
+    "change": "-0.22",
+    "timestamp": "2026-04-20T00:28:30.652883"
+  },
+  {
+    "symbol": "UNGA",
+    "name": "Unga Group Ltd",
+    "volume": "1,455",
+    "price": "28.15",
+    "change": "-0.05",
+    "timestamp": "2026-04-20T00:28:30.652921"
+  },
+  {
+    "symbol": "WTK",
+    "name": "Williamson Tea Kenya Ltd",
+    "volume": "29,715",
+    "price": "136.75",
+    "change": "-0.50",
+    "timestamp": "2026-04-20T00:28:30.652964"
+  },
+  {
+    "symbol": "XPRS",
+    "name": "Express Kenya Ltd",
+    "volume": "4,233",
+    "price": "7.38",
+    "change": "-0.28",
+    "timestamp": "2026-04-20T00:28:30.653003"
+  }
+]
