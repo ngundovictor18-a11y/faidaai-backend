@@ -34,6 +34,7 @@ def scrape_and_save():
         if stocks:
             with open("stocks_data.json", "w") as f:
                 json.dump(stocks, f, indent=2)
+            print(f"Scraped {len(stocks)} stocks")
         return stocks
     except Exception as e:
         print(f"Scraper error: {e}")
